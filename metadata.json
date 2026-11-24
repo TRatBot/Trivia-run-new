@@ -1,0 +1,6 @@
+{
+  "name": "Sunstone Sprint",
+  "description": "A local two-player split-screen 3D temple-runner race with obstacles, ancient trivia monsters, keyboard controls, and Arduino controller support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
